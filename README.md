@@ -35,10 +35,10 @@ This scraper targets the following page:https://www.aliexpress.us/w/wholesale-mi
 
 - `titles` – Product name  
 - `prices` – Current price  
-- `prices_avant` – Price before discount (if available)  
-- `eval` – Rating  
+- `prices_bef` – Price before discount (if available)  
+- `Ranting` – Rating  
 - `sold` – Number of units sold  
-- `reduc` – Discount percentage (if shown)  
+- `Discount` – Discount percentage (if shown)  
 - `liens` – Direct product URL  
 
 ---
