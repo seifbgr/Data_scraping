@@ -59,7 +59,7 @@ This scraper targets the following page:https://www.aliexpress.us/w/wholesale-mi
 
 Output is a CSV file structured like this:
 
-| Title                 | Price | Old Price | Rating | Sold | Discount | URL                        |
+| Title                 | Price | Old Price | Rating | Orders | Discount | URL                        |
 |----------------------|-------|-----------|--------|------|----------|-----------------------------|
 | USB Microphone XYZ   | $29   | $39       | 4.8    | 2345 | -25%     | https://...                |
 
