@@ -37,9 +37,9 @@ This scraper targets the following page:https://www.aliexpress.us/w/wholesale-mi
 - `prices` – Current price  
 - `prices_bef` – Price before discount (if available)  
 - `Ranting` – Rating  
-- `sold` – Number of units sold  
+- `Orders` – Number of units sold  
 - `Discount` – Discount percentage (if shown)  
-- `liens` – Direct product URL  
+- `URL` – Direct product URL  
 
 ---
 
